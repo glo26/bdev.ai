@@ -2,6 +2,12 @@
 
 *“The secret of change is to focus all of your energy, not on fighting the old, but building on the new.“ -Socrates (470-399 BC), Philosopher*
 
+Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: XXX
+
+Make your email outreach super personalized and secure a higher conversion rate by installing our chrome extension here: XXX
+
+Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai
+
 --
 
 For the longest time in history, the flow of sales have been the same. With the rise of Bladerunner team, we are restoring the fun and adventures back into the sales process--invigorating a high morale within sales teams all around the world working in the B2B SaaS vertical!
@@ -10,7 +16,7 @@ During the HF0 AI Hack Week, our team has created a chrome extension specificall
 
 We are continuing our journey in Bdev.ai by creating our own AI API that integrates with our clients' CRM data to gather further insights on the interests and pain points of their lead accounts. Such integration allows our Generative AI to craft targeted pitches that speak directly to their needs and goals. We continue to fine tune our model by also providing a feedback loop for every message generated through our interface.
 
-Our Chrome extension is easily accessible from within the Chrome browser, making it convenient for sales teams to use while they work. That said, our live demo can be accessed through the following link: XXX
+Our Chrome extension is easily accessible from within the Chrome browser, making it convenient for sales teams to use while they work. That said, our live demo can be accessed through the links above.
 
 For your reference, we have created this technical documentation to give you a better understanding of the technologies and tools that used into building bdev.ai. If you have any questions or would like to contribute to the development of our tool, please don't hesitate to reach out to us at hello@bdev.ai.
 
