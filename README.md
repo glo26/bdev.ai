@@ -1,32 +1,19 @@
-![Screenshot](screenshot.png)
-This code was built alongside a larger tutorial.
+# Bdev.ai - Empowering B2B business development teams with our AI.
 
-[Read the full tutorial](https://meerkat-citronella.github.io/jekyll/update/2020/10/01/welcome-to-jekyll.html)
+*“The secret of change is to focus all of your energy, not on fighting the old, but building on the new.“
 
-[Intro Video Walkthrough](https://youtu.be/gVMarA5eE7k)
+Socrates (470-399 BC), Philosopher*
 
-[Full Video Walkthrough](https://youtu.be/mveFTfzJ_io)
+--
 
-[Code behind this Jekyll Tutorial](https://github.com/meerkat-citronella/meerkat-citronella.github.io/tree/gh-pages)
+Our team has created a chrome extension specifically designed for sales teams at B2B SaaS companies to help them secure leads faster by creating genuine relationships with these leads.
 
-[Code behind the sticky note extension](https://github.com/meerkat-citronella/react-chrome-sticky-note-extension)
+bdev.ai is built on top of the OpenAI API, which provides us with powerful artificial intelligence capabilities. We use this API to gather insights on businesses, interests, and pain points for our leads, allowing sales teams to craft targeted pitches that speak directly to their needs and goals.
 
-## Available Scripts
+In addition to the OpenAI API, bdev.ai is also a chrome extension. This allows our tool to be easily accessible from within the Chrome browser, making it convenient for sales teams to use while they work.
 
-In the project directory, you can run:
+We hope that this technical documentation gives you a better understanding of the technologies and tools that went into building bdev.ai. If you have any questions or would like to contribute to the development of our tool, please don't hesitate to reach out to us.
 
-### `yarn start`
+--
 
-First, set `REACT_APP_LOCAL=true`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn build:extension`
-
-First, set `REACT_APP_LOCAL=false`
-
-This command will build the app as a Chrome extension. You will need to navigate to the `chrome://extensions` tab and click `Load unpacked`. Then, select the build folder.
