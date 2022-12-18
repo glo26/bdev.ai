@@ -2,9 +2,9 @@
 
 *“The secret of change is to focus all of your energy, not on fighting the old, but building on the new.“ -Socrates (470-399 BC), Philosopher*
 
-Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: XXX
+Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: (link coming soon, exclusive to in-person demo at HF0 San Francisco Bay Area).
 
-Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: XXX
+Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: https://main.d300aqqkb34ew1.amplifyapp.com/
 
 Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai
 
