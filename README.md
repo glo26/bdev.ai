@@ -4,17 +4,14 @@
 
 ![alt text](https://github.com/glo26/bdev.ai/blob/main/Bdev.ai%20-%20Github.png?raw=true)
 
---
-
 Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: (link coming soon, exclusive to in-person demo at HF0 San Francisco Bay Area).
 
 Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: https://main.d300aqqkb34ew1.amplifyapp.com/
 
+Contact hello@bdev.ai for more information about our project. Thanks! -The Bladerunners 🪄
 --
 
-Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai 🪄
-
---
+# "The journey of a thousand miles begins with one step."
 
 For the longest time in history, the flow of sales have been the same. With the rise of Bladerunner team, we are restoring the fun and adventures back into the sales process--invigorating a high morale within sales teams all around the world working in the B2B SaaS vertical!
 
@@ -25,8 +22,6 @@ We are continuing our journey in Bdev.ai by creating our own AI API that integra
 Our Chrome extension is easily accessible from within the Chrome browser, making it convenient for sales teams to use while they work. That said, our live demo can be accessed through the links above.
 
 For your reference, we have created this technical documentation to give you a better understanding of the technologies and tools that used into building bdev.ai. If you have any questions or would like to contribute to the development of our tool, please don't hesitate to reach out to us at hello@bdev.ai.
-
---
 
 # Founder's Story:
 
@@ -39,8 +34,6 @@ That's why I founded bdev.ai - to harness the power of AI and bring a new level 
 After years of working on various projects such as web3 games, ecommerce websites, and mobile apps, I am proud to say that bdev.ai is the product I am most proud of. It has allowed me to do what I love most - building and growing my business - without getting bogged down in the tedious, time-consuming tasks that often distract from the bigger picture. With bdev.ai, I can focus on what really matters - taking my company to new heights and helping other founders and entrepreneurs do the same.
 
 {the above founder's story has been augmented by ChatGPT}
-
---
 
 # Meet the hackers:
 
