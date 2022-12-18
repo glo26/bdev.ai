@@ -37,7 +37,7 @@ After years of working on various projects such as web3 games, ecommerce website
 
 # Meet the hackers:
 
-Connect with Gloria Felicia [GLO] on LinkedIn: [https://linkedin.com/in/gloriafelicia] and on Twitter: [https://twitter.com/gloriafelicia_] (https://twitter.com/gloriafelicia_)
+Connect with Gloria Felicia [GLO] on LinkedIn: [https://linkedin.com/in/gloriafelicia] and on Twitter: [https://twitter.com/gloriafelicia_]
 
 Founding team member during HF0: Marco Mascorro, LinkedIn: [https://www.linkedin.com/in/marcomascorro/], Twitter: [https://twitter.com/Mascobot]
 
