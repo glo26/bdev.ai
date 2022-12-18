@@ -2,9 +2,15 @@
 
 *“The secret of change is to focus all of your energy, not on fighting the old, but building on the new.“ -Socrates (470-399 BC), Philosopher*
 
+![alt text](https://github.com/glo26/bdev.ai/blob/main/Bdev.ai%20-%20Github.png?raw=true)
+
+--
+
 Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: (link coming soon, exclusive to in-person demo at HF0 San Francisco Bay Area).
 
 Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: https://main.d300aqqkb34ew1.amplifyapp.com/
+
+--
 
 Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai 🪄
 
