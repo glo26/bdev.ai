@@ -6,7 +6,7 @@ Make your LinkedIn outreach super personalized and secure a higher conversion ra
 
 Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: https://main.d300aqqkb34ew1.amplifyapp.com/
 
-Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai
+Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai 🪄
 
 --
 
