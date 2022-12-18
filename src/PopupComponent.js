@@ -1,8 +1,7 @@
 /* global chrome */
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-
-import { localMode } from "./constants";
+import { offwhite, localMode, africanviolet, darkbluegray } from "./constants";
 
 // const sampleNotesShape = { "someUrl": [{ note: "some text", x: 100, y: 100 }] };
 
@@ -39,6 +38,13 @@ const UrlEntry = ({ entry }) => {
   );
 };
 
+const TagButton = styled.button`
+  background: ${darkbluegray};
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 0.5em;
+`;
+
 export const PopupComponent = () => {
   const [notes, setNotes] = useState([]);
 
@@ -52,15 +58,14 @@ export const PopupComponent = () => {
   }, []);
 
   return (
-    <div>
+    <>
       <h3>Hello from sticky notes!</h3>
-      <p>
-        Press{" "}
-        <strong>
-          <i>Shift</i>
-        </strong>
-        + click to make a new note.
-      </p>
+      <TagButton>
+        <button>all</button>
+        <button>unsorted</button>
+        <button>sorted</button>
+      </TagButton>
+
       <h4>Your notes:</h4>
       {notes && (
         <ListNoMarker>
@@ -69,6 +74,6 @@ export const PopupComponent = () => {
           ))}
         </ListNoMarker>
       )}
-    </div>
+    </>
   );
 };

@@ -6,8 +6,6 @@ import "./App.css";
 import { localMode } from "./constants";
 import { ShadowRoot } from "./ShadowRoot";
 
-// const sampleNotesShape = [{ x: 98, y: 836, note: "some note text" }];
-
 const Container = styled.div`
   z-index: 2;
   border: 1px solid grey;
