@@ -2,13 +2,16 @@
 
 *“The secret of change is to focus all of your energy, not on fighting the old, but building on the new.“ -Socrates (470-399 BC), Philosopher*
 
-Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: XXX
+![alt text](https://github.com/glo26/bdev.ai/blob/main/Bdev.ai%20-%20Github.png?raw=true)
 
-Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: XXX
+Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: (link coming soon, exclusive to in-person demo at HF0 San Francisco Bay Area).
 
-Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai
+Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: https://main.d300aqqkb34ew1.amplifyapp.com/
 
+Contact hello@bdev.ai for more information about our project. Thanks! -The Bladerunners 🪄
 --
+
+# "The journey of a thousand miles begins with one step."
 
 For the longest time in history, the flow of sales have been the same. With the rise of Bladerunner team, we are restoring the fun and adventures back into the sales process--invigorating a high morale within sales teams all around the world working in the B2B SaaS vertical!
 
@@ -20,8 +23,6 @@ Our Chrome extension is easily accessible from within the Chrome browser, making
 
 For your reference, we have created this technical documentation to give you a better understanding of the technologies and tools that used into building bdev.ai. If you have any questions or would like to contribute to the development of our tool, please don't hesitate to reach out to us at hello@bdev.ai.
 
---
-
 # Founder's Story:
 
 As a founder and CEO, I know firsthand the challenges and sacrifices that come with building a company from the ground up. In 2019, the toll of long hours and hard work caught up with me, and I found myself hospitalized for a month with borderline-autoimmune symptoms. It was a wake-up call, and I knew I had to make some major changes to my life and work habits.
@@ -32,6 +33,14 @@ That's why I founded bdev.ai - to harness the power of AI and bring a new level 
 
 After years of working on various projects such as web3 games, ecommerce websites, and mobile apps, I am proud to say that bdev.ai is the product I am most proud of. It has allowed me to do what I love most - building and growing my business - without getting bogged down in the tedious, time-consuming tasks that often distract from the bigger picture. With bdev.ai, I can focus on what really matters - taking my company to new heights and helping other founders and entrepreneurs do the same.
 
-Connect wiith Gloria Felicia [GLO] on LinkedIn: https://linkedin.com/in/gloriafelicia and on Twitter: https://twitter.com/gloriafelicia_
-
 {the above founder's story has been augmented by ChatGPT}
+
+# Meet the hackers:
+
+Connect with Gloria Felicia [GLO] on LinkedIn: [https://linkedin.com/in/gloriafelicia] and on Twitter: [https://twitter.com/gloriafelicia_]
+
+Founding team member during HF0: Marco Mascorro, LinkedIn: [https://www.linkedin.com/in/marcomascorro/], Twitter: [https://twitter.com/Mascobot]
+
+Founding team member during HF0: Alex Reibman, LinkedIn: [https://www.linkedin.com/in/alex-reibman-67951589/], Twitter: [https://twitter.com/AlexReibman]
+
+Founding team member during HF0: Sankalpa Khadka, LinkedIn: [https://www.linkedin.com/in/sankhadka/], Twitter: [https://twitter.com/sankalpakhadka]
