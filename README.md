@@ -22,14 +22,16 @@ For your reference, we have created this technical documentation to give you a b
 
 --
 
-# Founder's Note:
+# Founder's Story:
 
-My world came crushing down from working too hard. Towards the end of 2019, I was hospitalized for 1 month. I was quarantined before everyone else was starting in 2020. They said I was having borderline-autoimmune symptoms, so I had a chance to reverse my life around. So, I did, I started eating well, sleeping enough, and exercising more often. Slowly, my condition became better and better to the point of where I am today.
+As a founder and CEO, I know firsthand the challenges and sacrifices that come with building a company from the ground up. In 2019, the toll of long hours and hard work caught up with me, and I found myself hospitalized for a month with borderline-autoimmune symptoms. It was a wake-up call, and I knew I had to make some major changes to my life and work habits.
 
-Now, I realized that I was doing the right thing the wrong way. 80% of our work today could be fully automated by AI. Say, we work 20-30 hours building the tool that will ultimately perform hundreds of hours into the future.
+I began prioritizing self-care and wellness, and as a result, I was able to fully recover and get back to my passion for building innovative companies. It was during this time that I realized the vast potential of artificial intelligence to streamline and automate many of the tasks that entrepreneurs like myself often spend countless hours on.
 
-This is why I created bdev.ai. After doing business development for my own digital software agency for 5 years, I realized that now with the power of ChatGPT and GPT-3.5 API, I could automate most of my workflow.
+That's why I founded bdev.ai - to harness the power of AI and bring a new level of efficiency and personalization to the process of business development. By leveraging advanced technologies like ChatGPT and GPT-3.5 API, I was able to create a tool that could handle much of the outreach and communication with leads, leaving me free to focus on the big picture and ensure that the AI was producing top-quality results.
 
-So, this is what I have built over the weekend. I recoded the entire interface that allows for more careful prompting of the model and was able to provide context for the AI to perform a highly personalized messages for each lead sitting in the company’s CRM.
+After years of working on various projects such as web3 games, ecommerce websites, and mobile apps, I am proud to say that bdev.ai is the product I am most proud of. It has allowed me to do what I love most - building and growing my business - without getting bogged down in the tedious, time-consuming tasks that often distract from the bigger picture. With bdev.ai, I can focus on what really matters - taking my company to new heights and helping other founders and entrepreneurs do the same.
 
-I’m happy to say that after shipping many things in the past, such as web3 game on Polygon, ecommerce websites, and mobile apps, this is the one I am most proud of, because now I don’t have to do 80% of my business development outreach manually. All I have to do is to monitor the performance of the AI, check the quality of the messages that they produce, and click send!
+Connect wiith Gloria Felicia [GLO] on LinkedIn: https://linkedin.com/in/gloriafelicia and on Twitter: https://twitter.com/gloriafelicia_
+
+{the above founder's story has been augmented by ChatGPT}
