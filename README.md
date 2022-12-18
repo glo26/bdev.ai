@@ -4,7 +4,7 @@
 
 Make your LinkedIn outreach super personalized and secure a higher conversion rate by installing our chrome extension here: XXX
 
-Make your email outreach super personalized and secure a higher conversion rate by installing our chrome extension here: XXX
+Make your email outreach super personalized and secure a higher conversion rate by integrating your CRM with our portal here: XXX
 
 Contact hello@bdev.ai for more information about our project. Thanks! -Founding team, Bdev.ai
 
