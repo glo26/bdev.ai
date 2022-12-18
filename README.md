@@ -32,6 +32,16 @@ That's why I founded bdev.ai - to harness the power of AI and bring a new level 
 
 After years of working on various projects such as web3 games, ecommerce websites, and mobile apps, I am proud to say that bdev.ai is the product I am most proud of. It has allowed me to do what I love most - building and growing my business - without getting bogged down in the tedious, time-consuming tasks that often distract from the bigger picture. With bdev.ai, I can focus on what really matters - taking my company to new heights and helping other founders and entrepreneurs do the same.
 
-Connect wiith Gloria Felicia [GLO] on LinkedIn: https://linkedin.com/in/gloriafelicia and on Twitter: https://twitter.com/gloriafelicia_
-
 {the above founder's story has been augmented by ChatGPT}
+
+--
+
+# Meet the hackers:
+
+Connect with Gloria Felicia [GLO] on LinkedIn: [https://linkedin.com/in/gloriafelicia] and on Twitter: [https://twitter.com/gloriafelicia_] (https://twitter.com/gloriafelicia_)
+
+Founding team member during HF0: Marco Mascorro, LinkedIn: [https://www.linkedin.com/in/marcomascorro/], Twitter: [https://twitter.com/Mascobot]
+
+Founding team member during HF0: Alex Reibman, LinkedIn: [https://www.linkedin.com/in/alex-reibman-67951589/], Twitter: [https://twitter.com/AlexReibman]
+
+Founding team member during HF0: Sankalpa Khadka, LinkedIn: [https://www.linkedin.com/in/sankhadka/], Twitter: [https://twitter.com/sankalpakhadka]
