@@ -3,12 +3,12 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import "./App.css";
 
-import { localMode } from "./constants";
+import { localMode, orange } from "./constants";
 import { ShadowRoot } from "./ShadowRoot";
 
 // Orange circle with letter B in it
 export const Logo = styled.div`
-  background: #ff8c00;
+  background: ${orange};
   border-radius: 50%;
   width: 30px;
   height: 30px;

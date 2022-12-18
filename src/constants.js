@@ -14,3 +14,8 @@ export const lightgray = "#555555";
 export const buttonsBarClassName = "pv-top-card-v2-ctas";
 export const addANote =
   "artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view mr1";
+export const textContainerClass =
+  "artdeco-modal artdeco-modal--layer-default send-invite";
+export const textBox =
+  "ember-text-area ember-view connect-button-send-invite__custom-message mb3";
+export const deleteBoxClass = "pt3 pb4";
