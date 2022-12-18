@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import { addANote } from "./constants";
+import { addANote, orange } from "./constants";
 import StickyNotes from "./StickyNotes";
 import ContentComponents from "./ContentComponents";
 import * as serviceWorker from "./serviceWorker";
@@ -32,30 +32,27 @@ const targetNode = document.body;
 const config = { attributes: true, childList: true, subtree: true };
 
 // Callback function to execute when mutations are observed
-const callback = (mutationList, observer) => {
+
+const addANoteObserverCallback = (mutationList, observer) => {
+  const addANoteButton = document.getElementsByClassName(addANote)[0];
   if (
     !!mutationList.filter(
       (mutation) =>
         mutation.type === "childList" &&
-        document.getElementsByClassName(addANote)[0].innerText === "Add a note"
+        addANoteButton.innerText === "Add a note"
     )
   ) {
-    document.getElementsByClassName(addANote)[0].innerText = "hello";
+    addANoteButton.innerText = "Compose Note";
+    addANoteButton.style.backgroundColor = orange;
+    addANoteButton.style.color = "white";
+    addANoteButton.style.border = "0px";
+    observer.disconnect();
   }
-  // for (const mutation of mutationList) {
-  //   if (
-  //     mutation.type === "childList" &&
-  //     document.getElementsByClassName(addANote)[0]
-  //   ) {
-  //     console.log("hello");
-  //   }
-  // }
 };
 // Create an observer instance linked to the callback function
-const observer = new MutationObserver(callback);
-
+const addANoteObserver = new MutationObserver(addANoteObserverCallback);
 // Start observing the target node for configured mutations
-observer.observe(targetNode, config);
+addANoteObserver.observe(targetNode, config);
 
 // PopupComponent / popup.html
 popupRoot && // to suppress minified react error 200
