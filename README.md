@@ -14,7 +14,7 @@ For the longest time in history, the flow of sales have been the same. With the 
 
 During the HF0 AI Hack Week, our team has created a chrome extension specifically designed for sales teams at B2B SaaS companies to help them secure leads faster by creating genuine relationships with these leads. Bdev.ai is built on top of the OpenAI API. With careful prompt engineering, we have been able to fine tune our model so that it produces output that matches our B2B clients' expectatons on the kind of hyper-personalized outreach message that they would like to use on LinkedIn.
 
-We are continuing our journey in Bdev.ai by creating our own AI API that integrates with our clients' CRM data to gather further insights on the interests and pain points of their lead accounts. Such integration allows our Generative AI to craft targeted pitches that speak directly to their needs and goals. We continue to fine tune our model by also providing a feedback loop for every message generated through our interface.
+We are continuing our journey in Bdev.ai by creating our own AI API that integrates with our clients' CRM data to gather further insights on the interests and pain points of their lead accounts. Such integration allows our Generative AI to craft targeted pitches that speak directly to their needs and goals. We fine tune our model by also providing a feedback loop for every message generated through our interface.
 
 Our Chrome extension is easily accessible from within the Chrome browser, making it convenient for sales teams to use while they work. That said, our live demo can be accessed through the links above.
 
