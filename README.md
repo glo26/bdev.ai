@@ -44,3 +44,5 @@ Founding team member during HF0: Marco Mascorro, LinkedIn: [https://www.linkedin
 Founding team member during HF0: Alex Reibman, LinkedIn: [https://www.linkedin.com/in/alex-reibman-67951589/], Twitter: [https://twitter.com/AlexReibman]
 
 Founding team member during HF0: Sankalpa Khadka, LinkedIn: [https://www.linkedin.com/in/sankhadka/], Twitter: [https://twitter.com/sankalpakhadka]
+
+ALL RIGHTS RESERVED,
