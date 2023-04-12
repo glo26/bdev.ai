@@ -45,4 +45,4 @@ Founding team member during HF0: Alex Reibman, LinkedIn: [https://www.linkedin.c
 
 Founding team member during HF0: Sankalpa Khadka, LinkedIn: [https://www.linkedin.com/in/sankhadka/], Twitter: [https://twitter.com/sankalpakhadka]
 
-ALL RIGHTS RESERVED,
+Copyright © ALL RIGHTS RESERVED,
